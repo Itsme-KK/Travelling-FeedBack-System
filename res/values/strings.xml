@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Feddback Application</string>
+    <string name="preLoginState">loginstate</string>
+    <string name="reason">Choose a Reason</string>
+    <string-array name="reason_list">
+        <item>Train is delayed</item>
+        <item>I lost my luggage</item>
+        <item>I forgot my luggage in train</item>
+        <item>My co passenger is left on previous platform</item>
+        <item>I have lost my ride</item>
+        <item>Forgot the ticket</item>
+    </string-array>
+</resources>
